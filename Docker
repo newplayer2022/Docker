@@ -1,3 +1,11 @@
 docker
 docker is container, way to package application with all the necessary dependencies and configuration,portable artifact,share and moved around,make deve team more effcient
 storage in container repository; proivate repositories/ public repository for Docker
+dockerhub
+container is own isolated environment --> packaged with all needed config
+one command to install the app
+run same apps with diff version
+
+BEFORE:deve-->airtfact/instruction-->operations
+AFTER: deve+ops work together to package the app in a container, no environ config needed on server
+layer of images/ linux base image,small in size/application image
