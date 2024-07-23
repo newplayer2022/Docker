@@ -1,0 +1,3 @@
+docker
+docker is container, way to package application with all the necessary dependencies and configuration,portable artifact,share and moved around,make deve team more effcient
+storage in container repository; proivate repositories/ public repository for Docker
