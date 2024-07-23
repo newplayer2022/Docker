@@ -9,3 +9,5 @@ run same apps with diff version
 BEFORE:deve-->airtfact/instruction-->operations
 AFTER: deve+ops work together to package the app in a container, no environ config needed on server
 layer of images/ linux base image,small in size/application image
+docker run applicationxxx 1.1.1
+docker ps #see the docker process running
