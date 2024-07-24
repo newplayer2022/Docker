@@ -35,3 +35,7 @@ dock ps #check the running process
 docker run -d redis #detached mode
 docker stop idofthecontainer #stop process
 docker ps -a #show history running or not running
+
+#troubleshooting
+docker logs containerid/ docker logs nameofcontainer
+
