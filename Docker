@@ -34,8 +34,14 @@ docker run redis  #start the image in container
 dock ps #check the running process
 docker run -d redis #detached mode
 docker stop idofthecontainer #stop process
-docker ps -a #show history running or not running
+ocker ps -a #show history running or not running
+docker start containerid
+docker run #create a new container
+
 
 #troubleshooting
 docker logs containerid/ docker logs nameofcontainer
+docker exec -it containerid /bin/bash  #it mean internal terminal   exit #come out the terminal 
+
+
 
