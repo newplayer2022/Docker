@@ -14,4 +14,11 @@ docker ps #see the docker process running
 
 
 #docker and VM
-operating system have 2 layers-  
+operating system have 2 layers-  1os kernel;2applications
+dockers doesnt have kernel, it use the kernel of the host
+VM have own kernel  
+docker run faster than VM
+not compatible with windows 
+
+docker toolbox for older Mac and Windows
+for mac and windows, it need to check system requirement, to see if it support, if not, you nneed use docker toolbox
