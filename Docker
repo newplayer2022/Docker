@@ -28,7 +28,7 @@ steps will be different for differnet linux system,  set up repository
 
 #commands
 container is a running environment for IMAGE
-docker pull redis
+docker pull redis #pull images from repository to locally 
 docker images  #check images
 docker run redis  #start the image in container
 dock ps #check the running process
