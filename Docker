@@ -41,7 +41,8 @@ docker run #create a new container
 
 #troubleshooting
 docker logs containerid/ docker logs nameofcontainer
-docker exec -it containerid /bin/bash  #it mean internal terminal   exit #come out the terminal 
+docker exec -it containerid /bin/bash  #it mean inyeractive terminal   exit #come out the terminal 
 
-
+docker rm  #delete container
+docker rmi #delete image
 
