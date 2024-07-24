@@ -22,3 +22,6 @@ not compatible with windows
 
 docker toolbox for older Mac and Windows
 for mac and windows, it need to check system requirement, to see if it support, if not, you nneed use docker toolbox
+2 important things, double check your windows version compatible; have virtualization enabled(by default) prerequisites
+
+steps will be different for differnet linux system,  set up repository
